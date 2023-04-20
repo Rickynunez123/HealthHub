@@ -1,0 +1,43 @@
+{
+    "hospitals": [
+      {
+        "name": "UP Health System",
+        "latitude": 47.122319,
+        "longitude": -88.573284,
+        "info": "UP Health System - Portage is a full-service hospital with 36 inpatient beds and a wide range of services, including emergency care, surgery, imaging, and rehabilitation.",
+        "image":"https://www.uphealthsystem.com/sites/uphealth/assets/posts/11958276_10154330646436808_4946439330407898223_o-1.jpg"
+      },
+      {
+        "name": "Aspirus Keweenaw Hospital",
+        "latitude": 47.243601,
+        "longitude": -88.458536,
+        "info": "Aspirus Keweenaw Hospital is a critical access hospital with 25 beds and a Level III trauma center designation. The hospital provides a wide range of services, including emergency care, surgery, imaging, and rehabilitation.",
+        "image":"https://www.prarch.com/wp-content/uploads/2020/06/Aspirus-Wausau-West-Entrance-1536x1024.webp"
+
+      },
+      {
+        "name": "Baraga County Memorial Hospital",
+        "latitude": 46.770233,
+        "longitude": -88.502862,
+        "info": "Baraga County Memorial Hospital is a critical access hospital with 15 beds and a Level IV trauma center designation. The hospital provides a range of services, including emergency care, surgery, and imaging.",
+        "image":"https://bcmh.org/wp-content/uploads/2022/04/BCMH-Exterior-18769-LoRez.jpg"
+
+      },
+      {
+        "name": "Iron County Community Hospital",
+        "latitude": 46.081586,
+        "longitude": -88.639157,
+        "info": "Iron County Community Hospital is a critical access hospital with 14 beds and a Level IV trauma center designation. The hospital provides a range of services, including emergency care, surgery, and imaging.",
+        "image":"https://www.aspirus.org/Uploads/Public/Images/Locations/Buildings/Aspirus-IronRiver-Hospital.jpg"
+
+      },
+      {
+        "name": "Dickinson County Healthcare System",
+        "latitude": 45.790413,
+        "longitude": -88.072742,
+        "info": "Dickinson County Healthcare System is a full-service hospital with 49 inpatient beds and a Level III trauma center designation. The hospital provides a wide range of services, including emergency care, surgery, imaging, and rehabilitation.",
+        "image":"https://www.beckershospitalreview.com/images/2016-images/06/Community%20Hospitals/Dickinson%20County%20Memorial%20Hospital%20(Mich.).jpg"
+
+      }
+    ]
+  }

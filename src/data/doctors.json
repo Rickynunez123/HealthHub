@@ -1,0 +1,19 @@
+{
+    "chats": [
+        {
+          "img": "../../img/p6.jpg",
+          "subtitle": "Therapist",
+          "title": "Dr.Clarence Hamilton"
+        },
+        {
+          "img": "../../img/p5.jpg",
+          "subtitle": "Surgeon ",
+          "title": "Dr.Brett Hoffman"
+        },
+        {
+          "img": "../../img/p4.jpg",
+          "subtitle": "Hematologist ",
+          "title": "Dr.Miguel Leonard"
+        }
+      ]
+}
