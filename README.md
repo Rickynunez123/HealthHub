@@ -1,2 +1,2 @@
 # Startup
-# Startup
+Allows you to conveniently store and manage all your personal health information, including insurance details, blood type, weight, height, and more. When you visit a hospital, your information is readily accessible, saving time and ensuring accurate care. Explore the map feature to locate nearby hospitals, browse doctor profiles, and sort by specialization. View available appointment slots, make bookings, and have them seamlessly integrated into your calendar.
